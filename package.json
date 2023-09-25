@@ -1,0 +1,28 @@
+{
+  "name": "deploiement",
+  "version": "1.0.0",
+  "description": "Je suis une description",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tictacS1/deploiement.git"
+  },
+  "keywords": [
+    "appli",
+    "test",
+    "déploiment",
+    "fun"
+  ],
+  "author": "Gondy <contact@gondy.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tictacS1/deploiement/issues"
+  },
+  "homepage": "https://github.com/tictacS1/deploiement#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
