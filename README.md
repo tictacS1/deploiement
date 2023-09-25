@@ -19,7 +19,7 @@ npm install
 node app.js
 ```
 
-### Installation sur render.com
+### Déploiement sur render.com
 
 Forker le repository sur github si nécessaire.
 
@@ -45,3 +45,9 @@ Start Command: node app.js
 ```
 
 - Validez la configuration et allez voir le lien disponible en haut de la page
+
+#### Mise a jour sur render.com
+
+- Mettez le code a jour
+- Commitez votre code avec  `git add` et `git commit`
+- Poussez votre code sur github avec `git push`
